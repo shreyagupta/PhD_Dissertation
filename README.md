@@ -15,7 +15,7 @@ Chapter 2 codes:
 
 Chapter 3 codes:
 - `Average Cost Multichain MDP Epilepsy Optimization Code using Pyomo v4.ipynb`: Jupyter notebook to solve the dual LP corresponding to an average cost MDP that maximizes rewards.
-  -`LP-MDP.py`: Corresponding python file.
+  - `LP-MDP.py`: Corresponding python file.
 - `Robust Average Cost Multichain MDP Epilepsy Optimization Code using Pyomo v3.ipynb`: Jupyter notebook to solve the modified dual LP corresponding to a robust average cost MDP that maximizes rewards.
   - `Robust-MDP.py`: Corresponding python file.
 
